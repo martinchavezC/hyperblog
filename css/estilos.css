@@ -3,9 +3,9 @@
     text-align-last: center;
     color: rgb(17, 107, 17);
     font-size: 22px;
-    border: solid rgb(208, 208, 208);
+    border: solid rgb(76, 76, 76);
 }
 body{
-    background-color: black;
-    color: green;
+    background-color: rgb(237, 237, 237);
+    color: rgb(10, 37, 117);
 }
