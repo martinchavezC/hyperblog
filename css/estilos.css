@@ -1,8 +1,9 @@
 .he{
-    background-color: aqua;
+    background-color: rgb(14, 68, 68);
     text-align-last: center;
     color: rgb(17, 107, 17);
     font-size: 22px;
+    border: solid rgb(208, 208, 208);
 }
 body{
     background-color: black;
